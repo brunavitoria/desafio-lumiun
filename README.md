@@ -1,9 +1,6 @@
 # desafio-lumiun
 Desafio proposto para a seleção na vaga de Programador PHP Júnior
 
-# desafio-lumiun
-Desafio proposto para a seleção na vaga de Programador PHP Júnior
-
 # Começando
 Para rodar a aplicação é necessario possuir:
 * PHP ^7.3
